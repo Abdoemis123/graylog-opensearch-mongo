@@ -1,0 +1,1 @@
+# graylog-opensearch-mongo
